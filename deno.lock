@@ -99,7 +99,8 @@
         "jsr:@std/path@1",
         "npm:@babel/core",
         "npm:@babel/preset-react",
-        "npm:@prefresh/vite"
+        "npm:@prefresh/vite",
+        "npm:vite@^7.1.3"
       ]
     },
     "@std/assert@1.0.14": {
